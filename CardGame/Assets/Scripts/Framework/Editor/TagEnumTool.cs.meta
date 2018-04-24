@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f0983b70d5955a42b8ce1a21d15e935
+timeCreated: 1524575128
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - m_targetEnumFile: {fileID: 11500000, guid: ca0368e749c7c2c4186007e3d1efe8ed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
